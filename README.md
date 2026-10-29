@@ -2,7 +2,7 @@
 
 Security Hub CSPMで不合格 (`FAILED`) になったS3のコントロールを、Amazon EventBridgeとAWS Lambdaで自動修復するAWS CDK (Python) のコード。
 
-解説記事: 
+解説記事: [【コツコツAWS】Security Hubの検出結果に対するS3の自動修復](https://qiita.com/guupys/items/bab114cc96c8144e5cca)
 
 ## 修復するコントロール
 
